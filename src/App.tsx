@@ -75,12 +75,12 @@ function App() {
             <span
               className="text-[9px] font-bold uppercase tracking-[0.1em] px-1.5 py-[1px] rounded"
               style={{
-                background: "linear-gradient(135deg, rgba(52,211,153,0.15), rgba(52,211,153,0.08))",
-                color: "#34d399",
-                border: "1px solid rgba(52,211,153,0.2)",
+                background: "linear-gradient(135deg, rgba(167,139,250,0.15), rgba(139,92,246,0.1))",
+                color: "#a78bfa",
+                border: "1px solid rgba(167,139,250,0.2)",
               }}
             >
-              Demo
+              Pro
             </span>
           </div>
 
